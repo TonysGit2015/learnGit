@@ -10,3 +10,5 @@ change again after add
 
 
 Create a branch is very easy!!
+
+This is a change on master branch to test conflict !!
