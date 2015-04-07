@@ -10,3 +10,6 @@ change again after add
 
 
 Create a branch is very easy!!
+
+This is a testing for conflict on dev branch !!
+
