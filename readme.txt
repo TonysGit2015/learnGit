@@ -7,3 +7,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 change again after add
+
+
+Create a branch is very easy!!
