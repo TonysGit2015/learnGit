@@ -16,3 +16,6 @@ This is a testing for conflict on dev branch !!
 This is a change on master branch to test conflict !!
 
 This is the merged version which fixes the conflict
+
+This is a bug fix on issue-1 branch.
+
