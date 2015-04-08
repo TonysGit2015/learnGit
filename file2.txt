@@ -1,2 +1,4 @@
 this is file 2 for testing.
 I changed this file
+Add one line by another developer
+merged one
